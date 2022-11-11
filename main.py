@@ -1,6 +1,6 @@
 # Функция очень важная. не удалять
 def superfunction():
-    print("Привет Python!")
+    print("Привет Колледж!")
 
 def main():
     print("Первый принт")
